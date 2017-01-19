@@ -1,0 +1,19 @@
+.column {
+  float: right;
+}
+
+.boarder{
+  border:5px solid green;
+  padding-left: 15px;
+  background-color: pink;
+}
+
+.boarder ul {
+  font-size: 56px;
+  color: blue;
+}
+
+.boarder p {
+  text-align: center;
+  font-style:italic;
+}
